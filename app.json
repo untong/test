@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/untong/test/messenger-platform-samples-master/"
+    }
+  ]
+}
